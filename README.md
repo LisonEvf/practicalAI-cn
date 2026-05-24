@@ -13,13 +13,13 @@
 |基础|深度学习|进阶|主题|
 |-|-|-|-|
 |📓 [Notebooks](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/00_Notebooks.ipynb)|🔥 [PyTorch](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/07_PyTorch.ipynb)|📚 [高级循环神经网络 Advanced RNNs](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/14_Advanced_RNNs.ipynb)|📸 [计算机视觉 Computer Vision](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/15_Computer_Vision.ipynb)|
-|🐍 [Python](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/01_Python.ipynb)|🎛️ [多层感知 Multilayer Perceptrons](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/08_Multilayer_Perceptron.ipynb)|🏎️ [Highway and Residual Networks](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|⏰ [时间序列分析 Time Series Analysis](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|
-|🔢 [NumPy](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/02_NumPy.ipynb)|🔎 [数据和模型 Data & Models](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/09_Data_and_Models.ipynb)|🔮 [自编码器 Autoencoders](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|🏘️ [Topic Modeling](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|
-|🐼 [Pandas](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/03_Pandas.ipynb)|📦 [面向对象的机器学习 Object-Oriented ML](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/10_Object_Oriented_ML.ipynb)|🎭 [生成对抗网络 Generative Adversarial Networks](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|🛒 [推荐系统 Recommendation Systems](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|
-|📈 [线性回归 Linear Regression](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/04_Linear_Regression.ipynb)|🖼️ [卷积神经网络 Convolutional Neural Networks](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/11_Convolutional_Neural_Networks.ipynb)|🐝 [空间变换模型 Spatial Transformer Networks](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|🗣️ [预训练语言模型 Pretrained Language Modeling](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|
-|📊 [逻辑回归 Logistic Regression](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/05_Logistic_Regression.ipynb)|📝 [嵌入层 Embeddings](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/12_Embeddings.ipynb)||🤷 [多任务学习 Multitask Learning](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|
-|🌳 [随机森林 Random Forests](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/06_Random_Forests.ipynb)|📗 [递归神经网络 Recurrent Neural Networks](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/13_Recurrent_Neural_Networks.ipynb)||🎯 [Low Shot Learning](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|
-|💥 [k-均值聚类 KMeans Clustering](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|||🍒 [强化学习 Reinforcement Learning](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/)|
+|🐍 [Python](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/01_Python.ipynb)|🔎 [数据和模型 Data & Models](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/09_Data_and_Models.ipynb)|🏎️ [Highway and Residual Networks](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/16_Highway_and_Residual_Networks.ipynb)|⏰ [时间序列分析 Time Series Analysis](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/20_Time_Series_Analysis.ipynb)|
+|🔢 [NumPy](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/02_NumPy.ipynb)|🔎 [数据和模型 Data & Models](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/09_Data_and_Models.ipynb)|🔮 [自编码器 Autoencoders](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/17_Autoencoders.ipynb)|🏘️ [Topic Modeling](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/21_Topic_Modeling.ipynb)|
+|🐼 [Pandas](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/03_Pandas.ipynb)|📦 [面向对象的机器学习 Object-Oriented ML](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/10_Object_Oriented_ML.ipynb)|🎭 [生成对抗网络 GANs](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/18_Generative_Adversarial_Networks.ipynb)|🛒 [推荐系统 Recommendation Systems](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/22_Recommendation_Systems.ipynb)|
+|📈 [线性回归 Linear Regression](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/04_Linear_Regression.ipynb)|🖼️ [卷积神经网络 Convolutional Neural Networks](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/11_Convolutional_Neural_Networks.ipynb)|🐝 [空间变换模型 Spatial Transformer](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/19_Spatial_Transformer_Networks.ipynb)|🗣️ [预训练语言模型 Pretrained LM](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/23_Pretrained_Language_Modeling.ipynb)|
+|📊 [逻辑回归 Logistic Regression](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/05_Logistic_Regression.ipynb)|📝 [嵌入层 Embeddings](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/12_Embeddings.ipynb)|🤷 [多任务学习 Multitask Learning](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/24_Multitask_Learning.ipynb)|🍒 [强化学习 Reinforcement Learning](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/26_Reinforcement_Learning.ipynb)|
+|🌳 [随机森林 Random Forests](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/06_Random_Forests.ipynb)|📗 [递归神经网络 Recurrent Neural Networks](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/13_Recurrent_Neural_Networks.ipynb)|🎯 [Low Shot Learning](https://nbviewer.jupyter.org/github/LisonEvf/practicalAI-cn/blob/master/notebooks/25_Low_Shot_Learning.ipynb)||
+|💥 k-均值聚类 KMeans Clustering|||
 
 ## 查看 notebooks
 
@@ -72,8 +72,19 @@
 |08_Multilayer_Perceptron.ipynb|[@zhyongquan](https://github.com/zhyongquan)|
 |09_Data_and_Models.ipynb|[@zhyongquan](https://github.com/zhyongquan)|
 |10_Object_Oriented_ML.ipynb|[@zhyongquan](https://github.com/zhyongquan)|
-|11_Convolutional_Neural_Networks.ipynb||
+|11_Convolutional_Neural_Networks.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
 |12_Embeddings.ipynb|[@wengJJ](https://github.com/wengJJ)|
-|13_Recurrent_Neural_Networks.ipynb||
-|14_Advanced_RNNs.ipynb||
-|15_Computer_Vision.ipynb|||
+|13_Recurrent_Neural_Networks.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|14_Advanced_RNNs.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|15_Computer_Vision.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|16_Highway_and_Residual_Networks.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|17_Autoencoders.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|18_Generative_Adversarial_Networks.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|19_Spatial_Transformer_Networks.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|20_Time_Series_Analysis.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|21_Topic_Modeling.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|22_Recommendation_Systems.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|23_Pretrained_Language_Modeling.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|24_Multitask_Learning.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|25_Low_Shot_Learning.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
+|26_Reinforcement_Learning.ipynb|[@Claude](https://github.com/claude) [@MiniMax-AI](https://github.com/MiniMax-AI)|
