@@ -1,7 +1,7 @@
 # AI实战-[practicalAI](https://github.com/LisonEvf/practicalAI-cn) 中文版
 [![Colab](https://img.shields.io/badge/launch-Google%20Colab-orange.svg)](https://colab.research.google.com/)
 [![MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/LisonEvf/practicalAI-cn/blob/master/LICENSE)
-[![Author](https://img.shields.io/badge/Author-MiniMax%26Claude-blue.svg)](https://github.com/MiniMax)
+[![Author](https://img.shields.io/badge/Author-GokuMohandas-blue.svg)](https://github.com/GokuMohandas)
 [![Fork](https://img.shields.io/badge/Fork-MLEveryday/practicalAI--cn-yellow.svg)](https://github.com/MLEveryday/practicalAI-cn)
 
 让你有能力使用机器学习从数据中获取有价值的见解。
